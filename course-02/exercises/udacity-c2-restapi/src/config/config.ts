@@ -17,5 +17,3 @@ export const config = {
     "dialect": "postgres"
   }
 }
-
-console.log('user',process.env.POSTGRES_AWS_USERNAME)
